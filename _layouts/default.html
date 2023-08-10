@@ -4,7 +4,9 @@
   <body>
       {% include navigation.html %}
       {% include page_header.html %}
-      {{ content }}
+      <div class="container px-4 px-lg-5">
+        {{ content }}
+      </div>
       {% include footer.html %}
 
       {% include bootstrap-js.html %}

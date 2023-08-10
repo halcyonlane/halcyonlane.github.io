@@ -1,0 +1,84 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-sm text-center">
+    <h3>Registered Dexters For Sale</h3>
+    <br/>
+    <br/>
+  </div>
+</div>
+
+{% for cow in site.data.dexters %}
+  {% if cow.for_sale %}
+  <div class="row">
+    <div class="row text-left"> 
+      <p>
+        <span class="fw-bold">{{ cow.name }}</span>
+        <br/>
+        {% if cow.registry_link %}
+        <a href="{{ cow.registry_link }}" target="_blank" rel="noopener noreferrer">
+          ADCA Registry Link
+        </a>
+        <br/>
+        {% endif %}
+        Price: {{ cow.price }}
+        <br/>
+        {{ cow.notes }}
+      </p>
+    </div>
+    <div class="row">
+        {% for pic in cow.pictures %}
+          <div class="col-sm p-1">
+            <img src="assets/images/cows/{{ pic }}" class="img-fluid rounded" alt="{{ cow.full_name }}">
+          </div>
+        {% endfor %}
+    </div>
+  </div>
+  <hr/>
+  <br/>
+  <br/>
+  {% endif %}
+{% endfor %}
+
+
+<div class="row">
+  <div class="col-sm text-center">
+    <h3>Family Milk Cows For Sale</h3>
+    <br/>
+    <br/>
+  </div>
+</div>
+
+{% for cow in site.data.cows %}
+  {% if cow.for_sale %}
+  <div class="row">
+    <div class="row text-left"> 
+      <p>
+        <span class="fw-bold">{{ cow.name }}</span>
+        <br/>
+        {% if cow.registry_link %}
+        <a href="{{ cow.registry_link }}" target="_blank" rel="noopener noreferrer">
+          ADCA Registry Link
+        </a>
+        <br/>
+        {% endif %}
+        Price: {{ cow.price }}
+        <br/>
+        {{ cow.notes }}
+      </p>
+    </div>
+    <div class="row">
+        {% for pic in cow.pictures %}
+          <div class="col-sm p-1">
+            <img src="assets/images/cows/{{ pic }}" class="img-fluid rounded" alt="{{ cow.full_name }}">
+          </div>
+        {% endfor %}
+    </div>
+  </div>
+  <hr/>
+  <br/>
+  <br/>
+  {% endif %}
+{% endfor %}

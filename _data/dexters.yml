@@ -1,0 +1,67 @@
+- name: Sarah
+  full_name: Halcyon Sarah Tillane
+  registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=045518
+  for_sale: true
+  dob: 04/11/2018 
+  price: $1475 
+  pictures:
+    - sarah-2-2023.jpg
+    - sara-3-2023.jpg
+    - sarah-3-2023.jpg
+  notes: >
+    Sarah is a red polled cow that was born on our farm. She is out of APF Macintosh and MLW Pumpin Patch.
+- name: Elizabeth
+  full_name: Halcyon Elizabeth Playfair
+  registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=04346
+  for_sale: true
+  dob: 05/06/2017 
+  price: $1475 
+  pictures:
+    - betsy-3-2023.jpg
+    - betsy-4-2023.jpg
+    - betsy-5-2023.jpg
+  notes: >
+    Elizabeth is a red polled cow that was born on our farm. She is out of APF Macintosh and MLW Pumpin Patch.
+- name: Betty
+  full_name: Halcyon Betty
+  registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=050807
+  for_sale: true
+  price: $1800 
+  pictures:
+    - betty-1-2023.jpg
+    - betty-2-2023.jpg
+  notes: >
+    One of our foundation cows, Betty is a red horned cow out of LLF Mickey's Rudy and our own Halcyon Elizabeth Playfair. We've had some of our best
+    grass fed beef come out of Mickey's Rudy and similar lines. Our first dexter cow was his grand damm Mrald Vera Violet Vinn.
+- name: Mary Kate
+  full_name: Halcyon Mary Kate Danaher
+  registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=045637
+  for_sale: true
+  price: $1800
+  pictures:
+    - mary-kate-1-2023.jpg
+    - mary-kate-3-2023.jpg
+  notes: >
+    One of our foundation cows, Mary Kate is a red and horned. She is out of Halcyon Red Will Danaher and Halcyon Elizabeth Playfair.
+    Red Will Danaher comes from the Belle Fourche lines 
+    (Gabriella Nanci, the author Dexter Called: A Breeders' Notebook) 
+    that we have been very happy with. 
+- name: Pollyanna
+  full_name: Halcyon Pollyanna
+  for_sale: true
+  price: $1225
+  pictures:
+    - pollyanna-6-2023.jpg
+    - pollyanna-1-2023.jpg
+    - pollyanna-7-2023.jpg
+  notes: >
+    Pollyanna is our only heifer for sale this year. She is out of our herd bull Butch and Sarah.
+- name: Butch
+  full_name: Verandas Butch
+  registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=049814
+  for_sale: false
+  price: $0
+  pictures:
+  notes: >
+    Butch is our herd bull. He is super docile and friendly. He also is a really beefy guy with good conformation.
+
