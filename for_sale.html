@@ -12,7 +12,7 @@ layout: default
 
 {% for cow in site.data.dexters %}
   {% if cow.for_sale %}
-  <div class="row">
+  <div class="row" id="{{ cow.id }}">
     <div class="row text-left"> 
       <p>
         <span class="fw-bold">{{ cow.name }}</span>
@@ -53,7 +53,7 @@ layout: default
 
 {% for cow in site.data.cows %}
   {% if cow.for_sale %}
-  <div class="row">
+  <div class="row" id="{{ cow.id }}">
     <div class="row text-left"> 
       <p>
         <span class="fw-bold">{{ cow.name }}</span>

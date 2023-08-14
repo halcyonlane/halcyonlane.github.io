@@ -1,4 +1,5 @@
-- name: Shadow
+- id: Shadow
+  name: Shadow
   for_sale: true
   price: $2400
   pictures:
@@ -7,5 +8,8 @@
   notes: >
     Shadow is a "Guernster" cow that is one of our family milk cows. She is a cross between our purebred Guernsey (Kora) and 
     our purebred Dexter (LLF Mickey's Rudy). We think these Guernsters are great family milk cows. 
-    They have a great dispostion and a great balance between milk production, size, and maintainability. Shadow produces
-    between 1 and 2 gallons of milk for us, milking just once a day. If you need some help leaning the ropes for milking, we can help!
+    They have a great disposition and a great balance between milk production, size, and maintainability. Shadow produces
+    between 1 and 2 gallons of milk for us, milking just once a day. She is a great hand milker! If you need some help leaning the ropes for milking, we can help!
+    <br/>
+    Also, She has been exposed to our herd bull 
+    <a href="dexters.html#butch">Butch</a>.
