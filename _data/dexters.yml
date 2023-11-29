@@ -2,24 +2,35 @@
   name: Betty
   full_name: Halcyon Betty
   registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=050807
-  for_sale: false
-  price: $0 
+  for_sale: true
+  price: $1950 
   pictures:
     - betty-1-2023.jpg
     - betty-2-2023.jpg
   notes: >
     Betty is a red horned cow out of LLF Mickey's Rudy and our own Halcyon Elizabeth Playfair. We've had some of our best
-    grass fed beef come out of Mickey's Rudy and similar lines. Our first dexter cow was his grand damm Mrald Vera Violet Vinn.
+    grass fed beef come out of Mickey's Rudy and similar lines (Our first dexter cow was his grand damm Mrald Vera Violet Vinn).
+- id: marygusta
+  name: Mary Gusta
+  full_name: Mary Gusta
+  registry_link: 
+  for_sale: true
+  price: $1250 
+  pictures:
+    - marygusta-1-2023.jpg
+    - marygusta-2-2023.jpg
+  notes: >
+    Mary Gusta is a heifer out of Halcyon Betty. She is red and polled, out of our herd bull Butch.
 - id: butch
   name: Butch
   full_name: Verandas Butch
   registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=049814
-  for_sale: false
-  price: $0
+  for_sale: true
+  price: $1700
   pictures:
     - butch-1-2023.jpg
     - butch-2-2023.jpg
     - butch-3-2023.jpg
   notes: >
-    Butch is our herd bull. He is super docile and friendly. He also is a really beefy guy with good conformation.
+    Butch is our herd bull. He is super docile, friendly, and quiet. He also is a really beefy guy with good conformation.
 
