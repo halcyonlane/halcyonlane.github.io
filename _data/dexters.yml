@@ -3,19 +3,19 @@
   full_name: Halcyon Betty
   registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=050807
   for_sale: true
-  price: $1950 
+  price: $2500 
   pictures:
     - betty-1-2023.jpg
     - betty-2-2023.jpg
   notes: >
     Betty is a red horned cow out of LLF Mickey's Rudy and our own Halcyon Elizabeth Playfair. We've had some of our best
-    grass fed beef come out of Mickey's Rudy and similar lines (Our first dexter cow was his grand damm Mrald Vera Violet Vinn).
+    grass fed beef come out of Mickey's Rudy and similar lines (Our first Dexter cow was his granddam Mrald Vera Violet Vinn).
 - id: marygusta
   name: Mary Gusta
   full_name: Mary Gusta
   registry_link: 
   for_sale: true
-  price: $1250 
+  price: $1900
   pictures:
     - marygusta-1-2023.jpg
     - marygusta-2-2023.jpg
@@ -25,8 +25,8 @@
   name: Butch
   full_name: Verandas Butch
   registry_link: http://adca.pedigree-db.com/pedigree.cgi?horse=049814
-  for_sale: true
-  price: $1700
+  for_sale: false
+  price:
   pictures:
     - butch-1-2023.jpg
     - butch-2-2023.jpg
